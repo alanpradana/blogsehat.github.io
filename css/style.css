@@ -1,0 +1,46 @@
+
+
+.jumbotron{ 
+	background: none;
+}
+
+.jumbotron h1{
+	color: white;
+}
+
+.navbar-brand{
+	font-family: viga;
+	font-size: 32px;
+}
+
+
+
+
+hr{
+	width: 250px;
+	border-top: 3px solid white;
+}
+
+.container{
+	background:none;
+}
+
+.portfolio{
+	background-color: #5B6262;
+	border: 5px solid;
+}
+
+
+footer p{
+	color: #aaa;
+	font-size: 0.9em;
+}
+
+h1{
+	color: white;
+}
+
+label{
+	color: white;
+}
+
